@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="facebook_app_id">1146525882368432</string>
+    <string name="fb_login_protocol_scheme">fb1146525882368432</string>
+
+    <string name="app_name">vouz</string>
+    <string name="log_in">Log In</string>
+    <string name="facebook_log_in">Facebook</string>
+    <string name="google_log_in">Google</string>
+    <!--    <string name="google_client_id">432978383853-mb7fe7mtjecintms1lj9o7vml1l86erf.apps.googleusercontent.com</string>-->
+    <!--    <string name="google_client_id">350057780263-sb13rmosmdaadcleqarltd293vqaqrhc.apps.googleusercontent.com</string>-->
+
+    <string name="google_client_id">521452869912-gib2pi9u7d8tu4cg0uu35n3r377gqdr1.apps.googleusercontent.com</string>
+    <string name="formatted_time">%d seconds</string>
+
+    <string name="NEWS_CHANNEL_ID">news</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+    <string name="exit_app">Esta seguro que quiere salir de Vouz?.</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+</resources>

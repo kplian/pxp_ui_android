@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vouz</string>
+    <string name="log_in">Log in</string>
+    <string name="exit_app">Are you sure you want to leave Vouz?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+</resources>

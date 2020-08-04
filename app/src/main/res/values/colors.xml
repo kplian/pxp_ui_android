@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DB3D60</color>
+    <color name="colorPrimaryDark">#DB3D60</color>
+    <color name="colorAccent">#FFEC02</color>
+    <color name="pink">#bd3f56</color>
+</resources>

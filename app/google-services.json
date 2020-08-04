@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "350057780263",
+    "firebase_url": "https://vouz-282016.firebaseio.com",
+    "project_id": "vouz-282016",
+    "storage_bucket": "vouz-282016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350057780263:android:260b432a4a063d68ee2a02",
+        "android_client_info": {
+          "package_name": "com.vouz.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350057780263-2v1tr23u8dm7ghk5cmdvak6s4ihfukag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM181keTXvTwhLQgZvdTNrETDioJxqyIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350057780263-2v1tr23u8dm7ghk5cmdvak6s4ihfukag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350057780263-qnapjmgidgvssggcvirmn5l0hvs7l0en.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vouz.vouz"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350057780263:android:f60440c86a5e584fee2a02",
+        "android_client_info": {
+          "package_name": "com.vouz.mobileV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350057780263-2v1tr23u8dm7ghk5cmdvak6s4ihfukag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM181keTXvTwhLQgZvdTNrETDioJxqyIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350057780263-2v1tr23u8dm7ghk5cmdvak6s4ihfukag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "350057780263-qnapjmgidgvssggcvirmn5l0hvs7l0en.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vouz.vouz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
